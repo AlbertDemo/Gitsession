@@ -1,7 +1,7 @@
 {
     "sequence": 1,
     "name": "Yoder Multi-Check Printing",
-    "version": "1.0.3",
+    "version": "1.0.43",
     "category": "Accounting/Payments",
     "summary": "Print multiple checks per page to optimize check paper usage",
     "description": """
